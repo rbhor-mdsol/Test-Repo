@@ -1,0 +1,6 @@
+
+
+ls
+cls
+command
+nice
